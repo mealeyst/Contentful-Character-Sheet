@@ -1,0 +1,8 @@
+{
+  "id": "contentful-character-sheet",
+  "name": "contentful-character-sheet",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Object"
+  ]
+}
